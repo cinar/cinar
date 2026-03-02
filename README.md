@@ -21,7 +21,7 @@ Authored several books on Android development:
 - [indicator](https://github.com/cinar/indicator) — Go library for technical analysis & backtesting (803 ⭐)
 - [indicatorts](https://github.com/cinar/indicatorts) — TypeScript library for technical analysis (427 ⭐)
 - [checker](https://github.com/cinar/checker) — Input validation library for Go (48 ⭐)
-- [resile](https://github.com/cinar/resile) - Type-safe execution resilience and retry library for Go. (1 *)
+- [resile](https://github.com/cinar/resile) - Type-safe execution resilience and retry library for Go. (1 ⭐)
 
 ## Connect
 
