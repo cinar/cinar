@@ -26,7 +26,3 @@ Authored several books on Android development:
 - [checker](https://github.com/cinar/checker) ![Stars](https://img.shields.io/github/stars/cinar/checker?style=social) — Input validation library for Go
 - [resile](https://github.com/cinar/resile) ![Stars](https://img.shields.io/github/stars/cinar/resile?style=social) — Type-safe execution resilience and retry library for Go.
 
-## Stats
-
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinar&layout=compact&theme=radical)
