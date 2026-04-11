@@ -1,5 +1,8 @@
 # Hi, I'm Onur Cinar 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinar)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/onurcinar)
+
 Engineer, Author & Maker
 
 ## About
@@ -18,11 +21,12 @@ Authored several books on Android development:
 
 ## Projects
 
-- [indicator](https://github.com/cinar/indicator) — Go library for technical analysis & backtesting (838 ⭐)
-- [indicatorts](https://github.com/cinar/indicatorts) — TypeScript library for technical analysis (432 ⭐)
-- [checker](https://github.com/cinar/checker) — Input validation library for Go (48 ⭐)
-- [resile](https://github.com/cinar/resile) - Type-safe execution resilience and retry library for Go. (36 ⭐)
+- [indicator](https://github.com/cinar/indicator) ![Stars](https://img.shields.io/github/stars/cinar/indicator?style=social) — Go library for technical analysis & backtesting
+- [indicatorts](https://github.com/cinar/indicatorts) ![Stars](https://img.shields.io/github/stars/cinar/indicatorts?style=social) — TypeScript library for technical analysis
+- [checker](https://github.com/cinar/checker) ![Stars](https://img.shields.io/github/stars/cinar/checker?style=social) — Input validation library for Go
+- [resile](https://github.com/cinar/resile) ![Stars](https://img.shields.io/github/stars/cinar/resile?style=social) — Type-safe execution resilience and retry library for Go.
 
-## Connect
+## Stats
 
-- [LinkedIn](https://www.linkedin.com/in/cinar)
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinar&layout=compact&theme=radical)
