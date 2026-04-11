@@ -4,7 +4,7 @@ Engineer, Author & Maker
 
 ## About
 
-Engineering leader with 20+ years building software used by billions. Currently at Google, leading YouTube Effects.
+Engineering leader with 20+ years building software used by billions. Currently at Google / YouTube.
 
 Previously led Skype and Lync on Android, built the Samsung Ad Platform, and have worked across mobile since the Palm Pilot era and web since the /cgi-bin/ days.
 
@@ -18,12 +18,11 @@ Authored several books on Android development:
 
 ## Projects
 
-- [indicator](https://github.com/cinar/indicator) — Go library for technical analysis & backtesting (803 ⭐)
-- [indicatorts](https://github.com/cinar/indicatorts) — TypeScript library for technical analysis (427 ⭐)
+- [indicator](https://github.com/cinar/indicator) — Go library for technical analysis & backtesting (838 ⭐)
+- [indicatorts](https://github.com/cinar/indicatorts) — TypeScript library for technical analysis (432 ⭐)
 - [checker](https://github.com/cinar/checker) — Input validation library for Go (48 ⭐)
-- [resile](https://github.com/cinar/resile) - Type-safe execution resilience and retry library for Go. (1 ⭐)
+- [resile](https://github.com/cinar/resile) - Type-safe execution resilience and retry library for Go. (36 ⭐)
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/cinar)
-- [GitHub](https://github.com/cinar)
