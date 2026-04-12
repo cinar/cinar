@@ -26,3 +26,8 @@ Authored several books on Android development:
 - [checker](https://github.com/cinar/checker) ![Stars](https://img.shields.io/github/stars/cinar/checker?style=social) — Input validation library for Go
 - [resile](https://github.com/cinar/resile) ![Stars](https://img.shields.io/github/stars/cinar/resile?style=social) — Type-safe execution resilience and retry library for Go.
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=go,ts,android,cpp,js,react,nodejs,docker,kubernetes,gcp,aws)](https://skillicons.dev)
+
+
