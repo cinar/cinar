@@ -11,7 +11,7 @@ Engineering leader with 20+ years building software used by billions. Currently 
 
 Previously led Skype and Lync on Android, built the Samsung Ad Platform, and have worked across mobile since the Palm Pilot era and web since the /cgi-bin/ days.
 
-## Writing
+## Books
 
 Authored several books on Android development:
 - [Android Best Practices](https://link.springer.com/book/10.1007/978-1-4302-5858-2) (Apress)
@@ -26,5 +26,10 @@ Authored several books on Android development:
 - [checker](https://github.com/cinar/checker) ![Stars](https://img.shields.io/github/stars/cinar/checker?style=social) — Input validation library for Go
 - [resile](https://github.com/cinar/resile) ![Stars](https://img.shields.io/github/stars/cinar/resile?style=social) — Type-safe execution resilience and retry library for Go.
 
+## Blog Articles
 
+I also have new blog [started here](https://zdo.com/blog).
 
+- [Herding AI Agents: A Weekend with Herdr, Tmux, and Remote Fleets](https://zdo.com/blog/posts/herding-ai-agents-with-herdr/)
+- [Pushing the Limits: Turning a 4GB Lenovo Duet Chromebook into My Primary Development Machine](https://zdo.com/blog/posts/optimizing-lenovo-duet-chromebook-for-development/)
+- [Self-Evolving Apps: Not Vibe, Live-Coding in Ruby with LLMs and Metaprogramming](https://zdo.com/blog/posts/self-evolving-app-code/)
